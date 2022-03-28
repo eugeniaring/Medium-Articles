@@ -12,3 +12,10 @@ Repository that contains all the code used for the articles I wrote on Medium
 * [Convolutional Autoencoder](https://medium.com/dataseries/convolutional-autoencoder-in-pytorch-on-mnist-dataset-d65145c132ac?sk=d1c99944c67c6a56b0b4e8c1a062cba6)
 * [Denoising Autoencoder](https://ai.plainenglish.io/denoising-autoencoder-in-pytorch-on-mnist-dataset-a76b8824e57e?sk=d81a3f6fdb0b19f25d52914031f26c5e)
 * [Variational Autoencoder](https://medium.com/dataseries/variational-autoencoder-with-pytorch-2d359cbf027b?sk=159e10d3402dbe868c849a560b66cdcb)
+
+## NLP
+
+* [Text pre-processing in Python](https://www.analyticsvidhya.com/blog/2021/08/a-friendly-guide-to-nlp-text-pre-processing-with-python-example/)
+* [Bag-of-Words with an Example in Python](https://www.analyticsvidhya.com/blog/2021/08/a-friendly-guide-to-nlp-bag-of-words-with-python-example/)
+* [TF-IDF with an Example in Python](https://betterprogramming.pub/a-friendly-guide-to-nlp-tf-idf-with-python-example-5fcb26286a33?sk=c204d0a817f8b5cd52f0e3d4ab8d688e)
+* [Word Clouds with TF-IDF](https://pub.towardsai.net/natural-language-processing-c12b0d525f99?sk=0a8af394df58b88a6d6f0b82143878a0)
