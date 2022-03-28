@@ -17,6 +17,6 @@ This is a series of tutorials I wrote for implementing deep learning models with
 
 The task in this project is to train an agent on the **Acrobot** game. Pytorch will be used to implement the Deep Q network, while Google Colab notebook will be used since it provides free GPU to speed up the training.
 
-*  [Acrobot with Deep Q-Learning](https://www.analyticsvidhya.com/blog/2021/06/acrobot-with-deep-q-learning/)
+1.  [Acrobot with Deep Q-Learning](https://www.analyticsvidhya.com/blog/2021/06/acrobot-with-deep-q-learning/)
 
-* [Deep Q-network with Pytorch and Gym to solve the Acrobot game](https://towardsdatascience.com/deep-q-network-with-pytorch-and-gym-to-solve-acrobot-game-d677836bda9b?sk=b1f158d50a57da9f1e144b0056d2458d)
+2. [Deep Q-network with Pytorch and Gym to solve the Acrobot game](https://towardsdatascience.com/deep-q-network-with-pytorch-and-gym-to-solve-acrobot-game-d677836bda9b?sk=b1f158d50a57da9f1e144b0056d2458d)
