@@ -24,3 +24,11 @@ Repository that contains all the code used for the articles I wrote on Medium
 
 * [Anomaly Detection With Isolation Forest](https://betterprogramming.pub/anomaly-detection-with-isolation-forest-e41f1f55cc6?sk=a0b5c074c78e392ecefd85d716ddecc9) 
 * [Interpretation of Isolation Forest with SHAP](https://pub.towardsai.net/interpretation-of-isolation-forest-with-shap-d1b6af93ae71?sk=89df1418a0cc243d8f2104844939abdb)
+
+## Statistics
+
+* [Plotly Express: Interprete data through interactive visualization](https://pub.towardsai.net/matplotlib-is-dead-long-life-to-plotly-express-e1671dce0d18?sk=b5668a585b08bdd549ae70ecf35be1c4)
+* [Generalized Additive Models](https://pub.towardsai.net/generalized-additive-models-with-r-5f01c8e52089?sk=0342c343ff1ef404d28289997efd6c55)
+
+
+
