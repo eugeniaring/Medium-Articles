@@ -13,7 +13,7 @@ This is a series of tutorials I wrote for implementing deep learning models with
 7. [Denoising Autoencoder](https://ai.plainenglish.io/denoising-autoencoder-in-pytorch-on-mnist-dataset-a76b8824e57e?sk=d81a3f6fdb0b19f25d52914031f26c5e)
 8. [Variational Autoencoder](https://medium.com/dataseries/variational-autoencoder-with-pytorch-2d359cbf027b?sk=159e10d3402dbe868c849a560b66cdcb)
 
-# Deep Q Network with Pytorch
+## Deep Q Network with Pytorch
 
 The task in this project is to train an agent on the **Acrobot** game. Pytorch will be used to implement the Deep Q network, while Google Colab notebook will be used since it provides free GPU to speed up the training.
 
