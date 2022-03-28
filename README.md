@@ -19,3 +19,8 @@ Repository that contains all the code used for the articles I wrote on Medium
 * [Bag-of-Words with an Example in Python](https://www.analyticsvidhya.com/blog/2021/08/a-friendly-guide-to-nlp-bag-of-words-with-python-example/)
 * [TF-IDF with an Example in Python](https://betterprogramming.pub/a-friendly-guide-to-nlp-tf-idf-with-python-example-5fcb26286a33?sk=c204d0a817f8b5cd52f0e3d4ab8d688e)
 * [Word Clouds with TF-IDF](https://pub.towardsai.net/natural-language-processing-c12b0d525f99?sk=0a8af394df58b88a6d6f0b82143878a0)
+
+## Anomaly Detection
+
+* [Anomaly Detection With Isolation Forest](https://betterprogramming.pub/anomaly-detection-with-isolation-forest-e41f1f55cc6?sk=a0b5c074c78e392ecefd85d716ddecc9) 
+* [Interpretation of Isolation Forest with SHAP](https://pub.towardsai.net/interpretation-of-isolation-forest-with-shap-d1b6af93ae71?sk=89df1418a0cc243d8f2104844939abdb)
