@@ -29,6 +29,9 @@ Repository that contains all the code used for the articles I wrote on Medium
 
 * [Plotly Express: Interprete data through interactive visualization](https://pub.towardsai.net/matplotlib-is-dead-long-life-to-plotly-express-e1671dce0d18?sk=b5668a585b08bdd549ae70ecf35be1c4)
 * [Generalized Additive Models](https://pub.towardsai.net/generalized-additive-models-with-r-5f01c8e52089?sk=0342c343ff1ef404d28289997efd6c55)
+* [An intuitive introduction to Boxplots](https://medium.com/dataseries/an-intuitive-introduction-to-boxplots-e5babae2f04f?sk=510d0ea1ba698b56d8fa001bd5636e75)
+* [An introduction to Probability Sampling Methods](https://towardsdatascience.com/an-introduction-to-probability-sampling-methods-7a936e486b5?sk=590cb6b5faf84709f158b77b998b6c1a)
+* [An introduction to non-Probability Sampling Methods](https://towardsdatascience.com/an-introduction-to-non-probability-sampling-methods-b74c76f7f710?sk=8ba145ecf97368d2ff295df87edfe98a)
 
 
 
