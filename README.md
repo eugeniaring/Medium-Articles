@@ -34,5 +34,11 @@ Repository that contains all the code used for the articles I wrote on Medium
 * [An introduction to Probability Sampling Methods](https://towardsdatascience.com/an-introduction-to-probability-sampling-methods-7a936e486b5?sk=590cb6b5faf84709f158b77b998b6c1a)
 * [An introduction to non-Probability Sampling Methods](https://towardsdatascience.com/an-introduction-to-non-probability-sampling-methods-b74c76f7f710?sk=8ba145ecf97368d2ff295df87edfe98a)
 
+## Dimensionality Reduction
+
+* [Variable Reduction with Principal Component Analysis](https://pub.towardsai.net/machine-learning-1096c38e6a18?sk=12a7d697e584f20e224bbd78f805fbe2)
+* [Implementing PCA from Scratch](https://towardsdatascience.com/implementing-pca-from-scratch-ea3970714d2b?sk=6e583091f692b9fd1a6fd9f97bc10513)
+* [How to perform LDA in Python with Sklearn](https://365datascience.com/tutorials/python-tutorials/lda-python/)
+
 
 
