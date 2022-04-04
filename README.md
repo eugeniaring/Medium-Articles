@@ -13,6 +13,10 @@ Repository that contains all the code used for the articles I wrote on Medium
 * [Denoising Autoencoder](https://ai.plainenglish.io/denoising-autoencoder-in-pytorch-on-mnist-dataset-a76b8824e57e?sk=d81a3f6fdb0b19f25d52914031f26c5e)
 * [Variational Autoencoder](https://medium.com/dataseries/variational-autoencoder-with-pytorch-2d359cbf027b?sk=159e10d3402dbe868c849a560b66cdcb)
 
+## Web Apps
+
+* [Building a Web Application to Convert a Video to a Gif Using Streamlit]()
+
 ## NLP
 
 * [Text pre-processing in Python](https://www.analyticsvidhya.com/blog/2021/08/a-friendly-guide-to-nlp-text-pre-processing-with-python-example/)
