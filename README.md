@@ -15,7 +15,7 @@ Repository that contains all the code used for the articles I wrote on Medium
 
 ## Web Apps
 
-* [Building a Web Application to Convert a Video to a Gif Using Streamlit]()
+* [Building a Web Application to Convert a Video to a Gif Using Streamlit](https://betterprogramming.pub/building-a-web-application-to-convert-a-video-to-a-gif-using-streamlit-2ab3b377eac1?sk=b17c56c857203417a06a22a1f0b5d4e8)
 
 ## NLP
 
