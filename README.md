@@ -45,4 +45,9 @@ Repository that contains all the code used for the articles I wrote on Medium
 * [How to perform LDA in Python with Sklearn](https://365datascience.com/tutorials/python-tutorials/lda-python/)
 
 
+## Web Scraping
 
+* [Understanding the HTML Basics for Web Scraping](https://betterprogramming.pub/understanding-html-basics-for-web-scraping-ae351ee0b3f9?sk=63f225c2557434bcb8cee1995995ebcb)
+* [A Simple Introduction to Web Scraping with Beautiful Soup](https://www.analyticsvidhya.com/blog/2021/08/a-simple-introduction-to-web-scraping-with-beautiful-soup/)
+* [An Intuitive Guide to Web Scraping using Selenium](https://www.analyticsvidhya.com/blog/2021/08/an-intuitive-guide-to-web-scraping-using-selenium/)
+* [Scraping job offers from Glassdoor using Octoparse](https://medium.com/mlearning-ai/scraping-job-offers-from-glassdoor-bb4b0b82f505?sk=bf5e6fad2a06d09b0b2cc18e0316933e)
