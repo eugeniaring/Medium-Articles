@@ -32,6 +32,7 @@ Repository that contains all the code used for the articles I wrote on Medium
 
 ## Statistics
 
+* [Master the basics of R programming](https://www.analyticsvidhya.com/blog/2021/10/master-the-basics-of-r-programming/)
 * [Plotly Express: Interprete data through interactive visualization](https://pub.towardsai.net/matplotlib-is-dead-long-life-to-plotly-express-e1671dce0d18?sk=b5668a585b08bdd549ae70ecf35be1c4)
 * [Generalized Additive Models](https://pub.towardsai.net/generalized-additive-models-with-r-5f01c8e52089?sk=0342c343ff1ef404d28289997efd6c55)
 * [An intuitive introduction to Boxplots](https://medium.com/dataseries/an-intuitive-introduction-to-boxplots-e5babae2f04f?sk=510d0ea1ba698b56d8fa001bd5636e75)
