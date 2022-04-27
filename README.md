@@ -45,6 +45,10 @@ Repository that contains all the code used for the articles I wrote on Medium
 * [Implementing PCA from Scratch](https://towardsdatascience.com/implementing-pca-from-scratch-ea3970714d2b?sk=6e583091f692b9fd1a6fd9f97bc10513)
 * [How to perform LDA in Python with Sklearn](https://365datascience.com/tutorials/python-tutorials/lda-python/)
 
+## Python Classes
+
+* [Explaining Python Classes in a simple way](https://towardsdatascience.com/explaining-python-classes-in-a-simple-way-e3742827c8b5?sk=f2644219c7a1b71bd23c302987481ed3)
+* [Master Class Inheritance in Python](https://towardsdatascience.com/master-class-inheritance-in-python-c46bfda63374?sk=7baf37f4749abddf04a61f5787efa50b)
 
 ## Web Scraping
 
