@@ -18,6 +18,11 @@ Repository that contains all the code used for the articles I wrote on Medium
 
 * [Building a Web Application to Convert a Video to a Gif Using Streamlit](https://betterprogramming.pub/building-a-web-application-to-convert-a-video-to-a-gif-using-streamlit-2ab3b377eac1?sk=b17c56c857203417a06a22a1f0b5d4e8)
 
+## Data Engineering
+
+* [How To Deal With Time Series Using Pandas and Plotly Express](https://betterprogramming.pub/how-to-deal-with-time-series-using-pandas-and-plotly-express-45b6848432df?sk=dd9b50849df263715bb9067f4c06340c)
+* [3 Pandas Functions To Group and Aggregate Data](https://betterprogramming.pub/3-pandas-functions-to-group-and-aggregate-data-9763a32583bb?sk=6d4e6844e3f5db9c2d6b05c4ba338463)
+
 ## NLP
 
 * [Text pre-processing in Python](https://www.analyticsvidhya.com/blog/2021/08/a-friendly-guide-to-nlp-text-pre-processing-with-python-example/)
