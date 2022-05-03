@@ -22,6 +22,8 @@ Repository that contains all the code used for the articles I wrote on Medium
 
 * [How To Deal With Time Series Using Pandas and Plotly Express](https://betterprogramming.pub/how-to-deal-with-time-series-using-pandas-and-plotly-express-45b6848432df?sk=dd9b50849df263715bb9067f4c06340c)
 * [3 Pandas Functions To Group and Aggregate Data](https://betterprogramming.pub/3-pandas-functions-to-group-and-aggregate-data-9763a32583bb?sk=6d4e6844e3f5db9c2d6b05c4ba338463)
+* [Convert Strings to DateTime format in Python](https://pub.towardsai.net/converting-strings-to-datetime-in-python-fb767394b125?sk=2b756d14320c103615e26c410f1ad6d8)
+* [Mito: A JupyterLab Extension for easy data manipulation with no code](https://towardsdatascience.com/mito-a-jupiterlab-extension-for-easy-data-manipulation-with-no-code-57a54a34e65e?sk=5a7e534da2e7e43cc335bef0762f5fe6)
 
 ## NLP
 
