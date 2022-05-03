@@ -5,6 +5,7 @@ Repository that contains all the code used for the articles I wrote on Medium
 ## Pytorch
 
 * [Pytorch Tutorial for Beginners](https://pub.towardsai.net/pytorch-tutorial-for-beginners-8331afc552c4?sk=0649bb04ac7d5abc2fda549540152dd4)
+* [Manipulating Pytorch Datasets](https://medium.com/mlearning-ai/manipulating-pytorch-datasets-c58487ab113f?sk=5d4cf7bd62d527d7c968b8db696b633f)
 * [Understand Tensor Dimensions in DL models](https://pub.towardsai.net/understanding-tensor-dimensions-in-deep-learning-models-with-pytorch-4ee828693826?sk=aa7de6752ce0878f08b74958d5a2f95c)
 * [CNN & Feature visualizations](https://medium.com/dataseries/visualizing-the-feature-maps-and-filters-by-convolutional-neural-networks-e1462340518e?sk=ecff452e1e310a6fe3602e2b7f253caf)
 * [Hyperparameter tuning with Optuna](https://pub.towardsai.net/tuning-pytorch-hyperparameters-with-optuna-470edcfd4dc?sk=32b9bd9102debd319c351c0c4cca67a2)
