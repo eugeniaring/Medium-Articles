@@ -14,6 +14,12 @@ Repository that contains all the code used for the articles I wrote on Medium
 * [Denoising Autoencoder](https://ai.plainenglish.io/denoising-autoencoder-in-pytorch-on-mnist-dataset-a76b8824e57e?sk=d81a3f6fdb0b19f25d52914031f26c5e)
 * [Variational Autoencoder](https://medium.com/dataseries/variational-autoencoder-with-pytorch-2d359cbf027b?sk=159e10d3402dbe868c849a560b66cdcb)
 
+## Regularization
+
+* [A Comprehensive Guide of Regularization Techniques in Deep Learning](https://towardsdatascience.com/a-comprehensive-guide-of-regularization-techniques-in-deep-learning-c671bb1b2c67?sk=493c497ce1f09d97d928837e0507c323)
+* [K-Fold Cross Validation for Machine Learning Models](https://pub.towardsai.net/k-fold-cross-validation-for-machine-learning-models-918f6ccfd6d?sk=e00ade649f531f1dd7d2bd7dd2e2d5a6)
+* [A Comprehensive Guide to Image Augmentation using Pytorch](https://towardsdatascience.com/a-comprehensive-guide-to-image-augmentation-using-pytorch-fb162f2444be?sk=cc387c596e7ecc8d6b78c2e86e845f34)
+
 ## Web Apps
 
 * [Building a Web Application to Convert a Video to a Gif Using Streamlit](https://betterprogramming.pub/building-a-web-application-to-convert-a-video-to-a-gif-using-streamlit-2ab3b377eac1?sk=b17c56c857203417a06a22a1f0b5d4e8)
@@ -37,7 +43,6 @@ Repository that contains all the code used for the articles I wrote on Medium
 
 * [Anomaly Detection With Isolation Forest](https://betterprogramming.pub/anomaly-detection-with-isolation-forest-e41f1f55cc6?sk=a0b5c074c78e392ecefd85d716ddecc9) 
 * [Interpretation of Isolation Forest with SHAP](https://pub.towardsai.net/interpretation-of-isolation-forest-with-shap-d1b6af93ae71?sk=89df1418a0cc243d8f2104844939abdb)
-* [A Comprehensive Guide to Image Augmentation using Pytorch](https://towardsdatascience.com/a-comprehensive-guide-to-image-augmentation-using-pytorch-fb162f2444be?sk=cc387c596e7ecc8d6b78c2e86e845f34)
 
 ## Statistics
 
