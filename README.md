@@ -2,6 +2,20 @@
 
 Repository that contains all the code used for the articles I wrote on Medium
 
+A summary of topics covered until now:
+* Pytorch
+* Manage ML Experiments
+* Regularization
+* Web Apps
+* Data Engineering
+* NLP
+* Anomaly Detection
+* Statistics
+* Dimensionality Reduction
+* Python Classes
+* Web Scraping
+
+
 ## Pytorch
 
 * [Pytorch Tutorial for Beginners](https://pub.towardsai.net/pytorch-tutorial-for-beginners-8331afc552c4?sk=0649bb04ac7d5abc2fda549540152dd4)
@@ -13,6 +27,13 @@ Repository that contains all the code used for the articles I wrote on Medium
 * [Convolutional Autoencoder](https://medium.com/dataseries/convolutional-autoencoder-in-pytorch-on-mnist-dataset-d65145c132ac?sk=d1c99944c67c6a56b0b4e8c1a062cba6)
 * [Denoising Autoencoder](https://ai.plainenglish.io/denoising-autoencoder-in-pytorch-on-mnist-dataset-a76b8824e57e?sk=d81a3f6fdb0b19f25d52914031f26c5e)
 * [Variational Autoencoder](https://medium.com/dataseries/variational-autoencoder-with-pytorch-2d359cbf027b?sk=159e10d3402dbe868c849a560b66cdcb)
+
+## Manage ML Experiments
+
+* [An Intuitive Guide to Track Your ML Experiments with MLflow](https://towardsdatascience.com/an-intuitive-guide-to-track-your-ml-experiments-with-mlflow-7ac50e63b09?sk=3f8a40911438b223c67f9842834f8827)
+* [A quick guide for tracking Pytorch Experiments using Neptune.ai](https://towardsdatascience.com/a-quick-guide-for-tracking-pytorch-experiments-using-neptune-ai-6321e4b6040f?sk=73805058dde5264ff4631ef1568efa6c)
+* [Three ways to parse arguments in your Python code](https://towardsdatascience.com/three-ways-to-parse-arguments-in-your-python-code-aba092e8ad73?sk=190d2dfa79c4903959ea8946039d9aa5)
+* [How To Update Your GitHub Repository in Visual Studio Code](https://betterprogramming.pub/how-to-update-your-github-repository-in-visual-studio-code-7bb9e8549cea?sk=e9605c55021d079703620bba8171e60b)
 
 ## Regularization
 
@@ -44,7 +65,7 @@ Repository that contains all the code used for the articles I wrote on Medium
 * [Anomaly Detection With Isolation Forest](https://betterprogramming.pub/anomaly-detection-with-isolation-forest-e41f1f55cc6?sk=a0b5c074c78e392ecefd85d716ddecc9) 
 * [Interpretation of Isolation Forest with SHAP](https://pub.towardsai.net/interpretation-of-isolation-forest-with-shap-d1b6af93ae71?sk=89df1418a0cc243d8f2104844939abdb)
 
-## Statistics
+## 8. Statistics
 
 * [Master the basics of R programming](https://www.analyticsvidhya.com/blog/2021/10/master-the-basics-of-r-programming/)
 * [Plotly Express: Interprete data through interactive visualization](https://pub.towardsai.net/matplotlib-is-dead-long-life-to-plotly-express-e1671dce0d18?sk=b5668a585b08bdd549ae70ecf35be1c4)
