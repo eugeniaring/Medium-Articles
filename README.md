@@ -65,7 +65,7 @@ A summary of topics covered until now:
 * [Anomaly Detection With Isolation Forest](https://betterprogramming.pub/anomaly-detection-with-isolation-forest-e41f1f55cc6?sk=a0b5c074c78e392ecefd85d716ddecc9) 
 * [Interpretation of Isolation Forest with SHAP](https://pub.towardsai.net/interpretation-of-isolation-forest-with-shap-d1b6af93ae71?sk=89df1418a0cc243d8f2104844939abdb)
 
-## 8. Statistics
+## Statistics
 
 * [Master the basics of R programming](https://www.analyticsvidhya.com/blog/2021/10/master-the-basics-of-r-programming/)
 * [Plotly Express: Interprete data through interactive visualization](https://pub.towardsai.net/matplotlib-is-dead-long-life-to-plotly-express-e1671dce0d18?sk=b5668a585b08bdd549ae70ecf35be1c4)
