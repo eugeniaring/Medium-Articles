@@ -3,6 +3,7 @@
 Repository that contains all the code used for the articles I wrote on Medium
 
 A summary of topics covered until now:
+* Python programming
 * Pytorch
 * Manage ML Experiments
 * Regularization
@@ -12,9 +13,14 @@ A summary of topics covered until now:
 * Anomaly Detection
 * Statistics
 * Dimensionality Reduction
-* Python Classes
 * Web Scraping
 
+## Programming
+
+* [A friendly Guide for writing Recursive Functions with Python](https://towardsdatascience.com/a-friendly-guide-for-writing-recursive-functions-with-python-52441bd7ff5f?sk=d86a6f6c57bf9121414d43c9299ecebf)
+* [Explaining Python Classes in a simple way](https://towardsdatascience.com/explaining-python-classes-in-a-simple-way-e3742827c8b5?sk=f2644219c7a1b71bd23c302987481ed3)
+* [Master Class Inheritance in Python](https://towardsdatascience.com/master-class-inheritance-in-python-c46bfda63374?sk=7baf37f4749abddf04a61f5787efa50b)
+* [Master the basics of R Programming](https://www.analyticsvidhya.com/blog/2021/10/master-the-basics-of-r-programming)
 
 ## Pytorch
 
@@ -79,11 +85,6 @@ A summary of topics covered until now:
 * [Variable Reduction with Principal Component Analysis](https://pub.towardsai.net/machine-learning-1096c38e6a18?sk=12a7d697e584f20e224bbd78f805fbe2)
 * [Implementing PCA from Scratch](https://towardsdatascience.com/implementing-pca-from-scratch-ea3970714d2b?sk=6e583091f692b9fd1a6fd9f97bc10513)
 * [How to perform LDA in Python with Sklearn](https://365datascience.com/tutorials/python-tutorials/lda-python/)
-
-## Python Classes
-
-* [Explaining Python Classes in a simple way](https://towardsdatascience.com/explaining-python-classes-in-a-simple-way-e3742827c8b5?sk=f2644219c7a1b71bd23c302987481ed3)
-* [Master Class Inheritance in Python](https://towardsdatascience.com/master-class-inheritance-in-python-c46bfda63374?sk=7baf37f4749abddf04a61f5787efa50b)
 
 ## Web Scraping
 
