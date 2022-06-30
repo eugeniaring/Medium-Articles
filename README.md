@@ -3,7 +3,7 @@
 Repository that contains all the code used for the articles I wrote on Medium
 
 A summary of topics covered until now:
-* Python programming
+* Programming
 * Pytorch
 * Manage ML Experiments
 * Regularization
