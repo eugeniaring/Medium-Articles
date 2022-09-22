@@ -4,7 +4,8 @@ Repository that contains all the code used for the articles I wrote on Medium
 
 A summary of topics covered until now:
 1. [Programming](#programming)
-2. [Pytorch](#pytorch)
+2. [Data Visualization](#data-visualization)
+3. [Pytorch](#pytorch)
 4. [Regularization](#regularization)
 5. [Web Apps](#web-apps)
 6. [Data Engineering](#data-engineering)
@@ -22,6 +23,14 @@ A summary of topics covered until now:
 | Explaining Python Classes in a simple way  | [:pencil2:](https://towardsdatascience.com/explaining-python-classes-in-a-simple-way-e3742827c8b5?sk=f2644219c7a1b71bd23c302987481ed3)  |   |
 | Master Class Inheritance in Python  | [:pencil2:](https://towardsdatascience.com/master-class-inheritance-in-python-c46bfda63374?sk=7baf37f4749abddf04a61f5787efa50b)  |   |
 | Master the basics of R Programming  | [:pencil2:](https://www.analyticsvidhya.com/blog/2021/10/master-the-basics-of-r-programming)  |  |
+
+# Data Visualization
+
+| Title         | Article       | Repository    |
+| ------------- | ------------- | ------------- |
+| Plotly Express: Interprete data through interactive visualization  | [:pencil2:](https://pub.towardsai.net/matplotlib-is-dead-long-life-to-plotly-express-e1671dce0d18)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Statistics/plotlyexpress.ipynb)  |
+| How to transition from Excel to Power BI  | [:pencil2:](https://www.datacamp.com/blog/how-to-transition-from-excel-to-power-bi)  |   |
+| Tableau Tutorial for Beginners  | [:pencil2:](https://www.datacamp.com/tutorial/tableau-tutorial-for-beginners)  |   |
 
 # Pytorch
 
