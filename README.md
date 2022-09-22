@@ -119,4 +119,6 @@ A summary of topics covered until now:
 | A Simple Introduction to Web Scraping with Beautiful Soup  | [:pencil2:](https://www.analyticsvidhya.com/blog/2021/08/a-simple-introduction-to-web-scraping-with-beautiful-soup/)  |    |
 | An Intuitive Guide to Web Scraping using Selenium  | [:pencil2:](https://www.analyticsvidhya.com/blog/2021/08/an-intuitive-guide-to-web-scraping-using-selenium/)  |   |
 | Scraping job offers from Glassdoor using Octoparse  | [:pencil2:](https://medium.com/mlearning-ai/scraping-job-offers-from-glassdoor-bb4b0b82f505?sk=bf5e6fad2a06d09b0b2cc18e0316933e)  |  |
+| Web Scraping Greenhouse Gas data from Wikipedia using Octoparse   | [:pencil2:](https://pub.towardsai.net/scraping-a-wikipedia-table-about-greenhouse-gas-600f2990af56?sk=d1a9382c0dd31c0861ca6f336d5b8655)  |  |
+| Build your own dataset of images for Deep Learning using Octoparse   | [:pencil2:](https://medium.com/mlearning-ai/how-to-quickly-build-your-own-dataset-of-images-for-deep-learning-1cf79073f1bd?sk=7e72677a81d46c59870385b4934a10ab)  |  |
 
