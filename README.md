@@ -18,9 +18,9 @@ A summary of topics covered until now:
 | Title         | Article       | Repository    |
 | ------------- | ------------- | ------------- |
 | A friendly Guide for writing Recursive Functions with Python  | [:pencil2:](https://towardsdatascience.com/a-friendly-guide-for-writing-recursive-functions-with-python-52441bd7ff5f?sk=d86a6f6c57bf9121414d43c9299ecebf)  | [:cat:]()  |
-| Explaining Python Classes in a simple way  | [:pencil2:](https://towardsdatascience.com/explaining-python-classes-in-a-simple-way-e3742827c8b5?sk=f2644219c7a1b71bd23c302987481ed3)  | Content Cell  |
-| Master Class Inheritance in Python  | [:pencil2:](https://towardsdatascience.com/master-class-inheritance-in-python-c46bfda63374?sk=7baf37f4749abddf04a61f5787efa50b)  | Content Cell  |
-| Master the basics of R Programming  | [:pencil2:](https://www.analyticsvidhya.com/blog/2021/10/master-the-basics-of-r-programming)  | Content Cell  |
+| Explaining Python Classes in a simple way  | [:pencil2:](https://towardsdatascience.com/explaining-python-classes-in-a-simple-way-e3742827c8b5?sk=f2644219c7a1b71bd23c302987481ed3)  |   |
+| Master Class Inheritance in Python  | [:pencil2:](https://towardsdatascience.com/master-class-inheritance-in-python-c46bfda63374?sk=7baf37f4749abddf04a61f5787efa50b)  |   |
+| Master the basics of R Programming  | [:pencil2:](https://www.analyticsvidhya.com/blog/2021/10/master-the-basics-of-r-programming)  |  |
 
 # Pytorch
 
@@ -38,16 +38,20 @@ A summary of topics covered until now:
 
 # Manage ML Experiments
 
-* [An Intuitive Guide to Track Your ML Experiments with MLflow](https://towardsdatascience.com/an-intuitive-guide-to-track-your-ml-experiments-with-mlflow-7ac50e63b09?sk=3f8a40911438b223c67f9842834f8827)
-* [A quick guide for tracking Pytorch Experiments using Neptune.ai](https://towardsdatascience.com/a-quick-guide-for-tracking-pytorch-experiments-using-neptune-ai-6321e4b6040f?sk=73805058dde5264ff4631ef1568efa6c)
-* [Three ways to parse arguments in your Python code](https://towardsdatascience.com/three-ways-to-parse-arguments-in-your-python-code-aba092e8ad73?sk=190d2dfa79c4903959ea8946039d9aa5)
-* [How To Update Your GitHub Repository in Visual Studio Code](https://betterprogramming.pub/how-to-update-your-github-repository-in-visual-studio-code-7bb9e8549cea?sk=e9605c55021d079703620bba8171e60b)
+| Title         | Article       | Repository    |
+| ------------- | ------------- | ------------- |
+| An Intuitive Guide to Track Your ML Experiments with MLflow  | [:pencil2:](https://towardsdatascience.com/a-friendly-guide-for-writing-recursive-functions-with-python-52441bd7ff5f?sk=d86a6f6c57bf9121414d43c9299ecebf)  |   |
+| A quick guide for tracking Pytorch Experiments using Neptune.ai  | [:pencil2:](https://towardsdatascience.com/explaining-python-classes-in-a-simple-way-e3742827c8b5?sk=f2644219c7a1b71bd23c302987481ed3)  |   |
+| How to deploy your ML model using DagsHub+MLflow+AWS Lambda  | [:pencil2:](https://towardsdatascience.com/how-to-deploy-your-ml-model-using-dagshub-mlflow-aws-lambda-c85e07b06ef6?sk=30e3b1a636acd59d51f03cc7fc9e9459)  | [:cat:](https://dagshub.com/eugenia.anello/anomaly_detection_ecg)  |
 
 # Regularization
 
-* [A Comprehensive Guide of Regularization Techniques in Deep Learning](https://towardsdatascience.com/a-comprehensive-guide-of-regularization-techniques-in-deep-learning-c671bb1b2c67?sk=493c497ce1f09d97d928837e0507c323)
-* [K-Fold Cross Validation for Machine Learning Models](https://pub.towardsai.net/k-fold-cross-validation-for-machine-learning-models-918f6ccfd6d?sk=e00ade649f531f1dd7d2bd7dd2e2d5a6)
-* [A Comprehensive Guide to Image Augmentation using Pytorch](https://towardsdatascience.com/a-comprehensive-guide-to-image-augmentation-using-pytorch-fb162f2444be?sk=cc387c596e7ecc8d6b78c2e86e845f34)
+| Title         | Article       | Repository    |
+| ------------- | ------------- | ------------- |
+| A Comprehensive Guide of Regularization Techniques in Deep Learning  | [:pencil2:](https://towardsdatascience.com/a-comprehensive-guide-of-regularization-techniques-in-deep-learning-c671bb1b2c67?sk=493c497ce1f09d97d928837e0507c323)  |   |
+| K-Fold Cross Validation for Machine Learning Models  | [:pencil2:](https://pub.towardsai.net/k-fold-cross-validation-for-machine-learning-models-918f6ccfd6d?sk=e00ade649f531f1dd7d2bd7dd2e2d5a6)  |   |
+| A Comprehensive Guide to Image Augmentation using Pytorch  | [:pencil2:](https://towardsdatascience.com/a-comprehensive-guide-to-image-augmentation-using-pytorch-fb162f2444be?sk=cc387c596e7ecc8d6b78c2e86e845f34)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Regularization/image-augmentation-on-crack-images.ipynb)  |
+| Albumentations: A Python library for advanced Image Augmentation strategies  | [:pencil2:](https://medium.com/mlearning-ai/albumentations-a-python-library-for-advanced-image-augmentation-strategies-752bff3a3da0?sk=a18a9af00850814df88cc1af23bb4f82)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Regularization/albumentations-example.ipynb)  |
 
 # Web Apps
 
