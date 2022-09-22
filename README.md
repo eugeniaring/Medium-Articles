@@ -55,46 +55,68 @@ A summary of topics covered until now:
 
 # Web Apps
 
-* [Building a Web Application to Convert a Video to a Gif Using Streamlit](https://betterprogramming.pub/building-a-web-application-to-convert-a-video-to-a-gif-using-streamlit-2ab3b377eac1?sk=b17c56c857203417a06a22a1f0b5d4e8)
+| Title         | Article       | Repository    |
+| ------------- | ------------- | ------------- |
+| Building a Web Application to Convert a Video to a Gif Using Streamlit  | [:pencil2:](https://betterprogramming.pub/building-a-web-application-to-convert-a-video-to-a-gif-using-streamlit-2ab3b377eac1?sk=b17c56c857203417a06a22a1f0b5d4e8)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/tree/main/Web%20Apps/convert-video-to-gif-app)  |
+| How to build a Web App to Transcribe and Summarize audio with Python  | [:pencil2:](https://towardsdatascience.com/how-to-build-a-web-app-to-transcribe-and-summarize-audio-with-python-dc719cb9e1f5?sk=96f349f866419fe55cd6a1496e740069)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/tree/main/Web%20Apps/podcast-summary-app)  |
+| Creating a Web Application to extract topics from audio with Python  | [:pencil2:](https://towardsdatascience.com/creating-a-web-application-to-extract-topics-from-audio-with-python-21c3f541f3ca?sk=0e7a46d1e4223e66c8bd5f11138c2763)  | [:cat:](https://github.com/eugeniaring/topic-web-app-heroku)  |
 
 # Data Engineering
 
-* [How To Deal With Time Series Using Pandas and Plotly Express](https://betterprogramming.pub/how-to-deal-with-time-series-using-pandas-and-plotly-express-45b6848432df?sk=dd9b50849df263715bb9067f4c06340c)
-* [3 Pandas Functions To Group and Aggregate Data](https://betterprogramming.pub/3-pandas-functions-to-group-and-aggregate-data-9763a32583bb?sk=6d4e6844e3f5db9c2d6b05c4ba338463)
-* [Convert Strings to DateTime format in Python](https://pub.towardsai.net/converting-strings-to-datetime-in-python-fb767394b125?sk=2b756d14320c103615e26c410f1ad6d8)
-* [Mito: A JupyterLab Extension for easy data manipulation with no code](https://towardsdatascience.com/mito-a-jupiterlab-extension-for-easy-data-manipulation-with-no-code-57a54a34e65e?sk=5a7e534da2e7e43cc335bef0762f5fe6)
+| Title         | Article       | Repository    |
+| ------------- | ------------- | ------------- |
+| How To Deal With Time Series Using Pandas and Plotly Express  | [:pencil2:](https://betterprogramming.pub/how-to-deal-with-time-series-using-pandas-and-plotly-express-45b6848432df?sk=dd9b50849df263715bb9067f4c06340c)  | [:cat:](https://www.kaggle.com/code/eugeniaanello/timeseriespandas/notebook)  |
+| 3 Pandas Functions To Group and Aggregate Data  | [:pencil2:](https://betterprogramming.pub/3-pandas-functions-to-group-and-aggregate-data-9763a32583bb?sk=6d4e6844e3f5db9c2d6b05c4ba338463)  |   |
+| Convert Strings to DateTime format in Python  | [:pencil2:](https://pub.towardsai.net/converting-strings-to-datetime-in-python-fb767394b125?sk=2b756d14320c103615e26c410f1ad6d8)  |   |
+| Mito: A JupyterLab Extension for easy data manipulation with no code  | [:pencil2:](https://towardsdatascience.com/mito-a-jupiterlab-extension-for-easy-data-manipulation-with-no-code-57a54a34e65e?sk=5a7e534da2e7e43cc335bef0762f5fe6)  |   |
 
 # NLP
 
-* [Text pre-processing in Python](https://www.analyticsvidhya.com/blog/2021/08/a-friendly-guide-to-nlp-text-pre-processing-with-python-example/)
-* [Bag-of-Words with an Example in Python](https://www.analyticsvidhya.com/blog/2021/08/a-friendly-guide-to-nlp-bag-of-words-with-python-example/)
-* [TF-IDF with an Example in Python](https://betterprogramming.pub/a-friendly-guide-to-nlp-tf-idf-with-python-example-5fcb26286a33?sk=c204d0a817f8b5cd52f0e3d4ab8d688e)
-* [Word Clouds with TF-IDF](https://pub.towardsai.net/natural-language-processing-c12b0d525f99?sk=0a8af394df58b88a6d6f0b82143878a0)
-* [Extract Text from Long Videos with Python](https://pub.towardsai.net/extract-the-text-from-long-videos-with-python-81d30d655cfd?sk=d427d8985ff9bc0fcc561f5310e09116)
+| Title         | Article       | Repository    |
+| ------------- | ------------- | ------------- |
+| Text pre-processing in Python  | [:pencil2:](https://www.analyticsvidhya.com/blog/2021/08/a-friendly-guide-to-nlp-text-pre-processing-with-python-example/)  |   |
+| Bag-of-Words with an Example in Python  | [:pencil2:](https://www.analyticsvidhya.com/blog/2021/08/a-friendly-guide-to-nlp-bag-of-words-with-python-example/)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/NLP/tf_idf_vs_BOW.ipynb)  |
+| TF-IDF with an Example in Python  | [:pencil2:](https://betterprogramming.pub/a-friendly-guide-to-nlp-tf-idf-with-python-example-5fcb26286a33?sk=c204d0a817f8b5cd52f0e3d4ab8d688e)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/NLP/tf_idf_vs_BOW.ipynb)  |
+| Word Clouds with TF-IDF  | [:pencil2:](https://pub.towardsai.net/natural-language-processing-c12b0d525f99?sk=0a8af394df58b88a6d6f0b82143878a0)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/NLP/hotel-cloud.ipynb)  |
+
 
 # Anomaly Detection
 
-* [Anomaly Detection With Isolation Forest](https://betterprogramming.pub/anomaly-detection-with-isolation-forest-e41f1f55cc6?sk=a0b5c074c78e392ecefd85d716ddecc9) 
-* [Interpretation of Isolation Forest with SHAP](https://pub.towardsai.net/interpretation-of-isolation-forest-with-shap-d1b6af93ae71?sk=89df1418a0cc243d8f2104844939abdb)
+| Title         | Article       | Repository    |
+| ------------- | ------------- | ------------- |
+| Anomaly Detection With Isolation Forest  | [:pencil2:](https://betterprogramming.pub/anomaly-detection-with-isolation-forest-e41f1f55cc6?sk=a0b5c074c78e392ecefd85d716ddecc9)  | [:cat:](https://github.com/eugeniaring/Medium-Art)  |
+| Interpretation of Isolation Forest with SHAP  | [:pencil2:](https://pub.towardsai.net/interpretation-of-isolation-forest-with-shap-d1b6af93ae71?sk=89df1418a0cc243d8f2104844939abdb)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Anomaly%20Detection/iforestwithshap.ipynb)   |
+| Paper Review: Reconstruction by inpainting for visual anomaly detection  | [:pencil2:](https://towardsdatascience.com/paper-review-reconstruction-by-inpainting-for-visual-anomaly-detection-70dcf3063c07)  |   |
+| GANomaly Paper Review: Semi-Supervised Anomaly Detection via Adversarial Training  | [:pencil2:](https://towardsdatascience.com/ganomaly-paper-review-semi-supervised-anomaly-detection-via-adversarial-training-a6f7a64a265f)  | [:cat:](https://github.com/eugeniaring/ganomaly-MVTec-AD)  |
+
+
 
 # Statistics
 
-* [Master the basics of R programming](https://www.analyticsvidhya.com/blog/2021/10/master-the-basics-of-r-programming/)
-* [Plotly Express: Interprete data through interactive visualization](https://pub.towardsai.net/matplotlib-is-dead-long-life-to-plotly-express-e1671dce0d18?sk=b5668a585b08bdd549ae70ecf35be1c4)
-* [Generalized Additive Models](https://pub.towardsai.net/generalized-additive-models-with-r-5f01c8e52089?sk=0342c343ff1ef404d28289997efd6c55)
-* [An intuitive introduction to Boxplots](https://medium.com/dataseries/an-intuitive-introduction-to-boxplots-e5babae2f04f?sk=510d0ea1ba698b56d8fa001bd5636e75)
-* [An introduction to Probability Sampling Methods](https://towardsdatascience.com/an-introduction-to-probability-sampling-methods-7a936e486b5?sk=590cb6b5faf84709f158b77b998b6c1a)
-* [An introduction to non-Probability Sampling Methods](https://towardsdatascience.com/an-introduction-to-non-probability-sampling-methods-b74c76f7f710?sk=8ba145ecf97368d2ff295df87edfe98a)
+| Title         | Article       | Repository    |
+| ------------- | ------------- | ------------- |
+| Master the basics of R programming  | [:pencil2:](https://www.analyticsvidhya.com/blog/2021/10/master-the-basics-of-r-programming/)  |   |
+| Generalized Additive Models  | [:pencil2:](https://pub.towardsai.net/generalized-additive-models-with-r-5f01c8e52089?sk=0342c343ff1ef404d28289997efd6c55)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Statistics/gam-bike-sharing.ipynb)   |
+| An intuitive introduction to Boxplots  | [:pencil2:](https://medium.com/dataseries/an-intuitive-introduction-to-boxplots-e5babae2f04f?sk=510d0ea1ba698b56d8fa001bd5636e75)  |   |
+| An introduction to Probability Sampling Methods  | [:pencil2:](https://towardsdatascience.com/an-introduction-to-probability-sampling-methods-7a936e486b5?sk=590cb6b5faf84709f158b77b998b6c1a)  |   |
+| An introduction to non-Probability Sampling Methods  | [:pencil2:](https://towardsdatascience.com/an-introduction-to-non-probability-sampling-methods-b74c76f7f710?sk=8ba145ecf97368d2ff295df87edfe98a)  |  |
+
 
 # Dimensionality Reduction
 
-* [Variable Reduction with Principal Component Analysis](https://pub.towardsai.net/machine-learning-1096c38e6a18?sk=12a7d697e584f20e224bbd78f805fbe2)
-* [Implementing PCA from Scratch](https://towardsdatascience.com/implementing-pca-from-scratch-ea3970714d2b?sk=6e583091f692b9fd1a6fd9f97bc10513)
-* [How to perform LDA in Python with Sklearn](https://365datascience.com/tutorials/python-tutorials/lda-python/)
+| Title         | Article       | Repository    |
+| ------------- | ------------- | ------------- |
+| Variable Reduction with Principal Component Analysis  | [:pencil2:](https://pub.towardsai.net/machine-learning-1096c38e6a18?sk=12a7d697e584f20e224bbd78f805fbe2)  |   |
+| Implementing PCA from Scratch  | [:pencil2:](https://towardsdatascience.com/implementing-pca-from-scratch-ea3970714d2b?sk=6e583091f692b9fd1a6fd9f97bc10513)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Dimensionality%20Reduction/pcaimplementation.ipynb)   |
+| How to perform LDA in Python with Sklearn  | [:pencil2:](https://365datascience.com/tutorials/python-tutorials/lda-python/)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Dimensionality%20Reduction/lda_implement.ipynb)  |
+
 
 # Web Scraping
 
-* [Understanding the HTML Basics for Web Scraping](https://betterprogramming.pub/understanding-html-basics-for-web-scraping-ae351ee0b3f9?sk=63f225c2557434bcb8cee1995995ebcb)
-* [A Simple Introduction to Web Scraping with Beautiful Soup](https://www.analyticsvidhya.com/blog/2021/08/a-simple-introduction-to-web-scraping-with-beautiful-soup/)
-* [An Intuitive Guide to Web Scraping using Selenium](https://www.analyticsvidhya.com/blog/2021/08/an-intuitive-guide-to-web-scraping-using-selenium/)
-* [Scraping job offers from Glassdoor using Octoparse](https://medium.com/mlearning-ai/scraping-job-offers-from-glassdoor-bb4b0b82f505?sk=bf5e6fad2a06d09b0b2cc18e0316933e)
+| Title         | Article       | Repository    |
+| ------------- | ------------- | ------------- |
+| Understanding the HTML Basics for Web Scraping  | [:pencil2:](https://betterprogramming.pub/understanding-html-basics-for-web-scraping-ae351ee0b3f9?sk=63f225c2557434bcb8cee1995995ebcb)  |   |
+| A Simple Introduction to Web Scraping with Beautiful Soup  | [:pencil2:](https://www.analyticsvidhya.com/blog/2021/08/a-simple-introduction-to-web-scraping-with-beautiful-soup/)  |    |
+| An Intuitive Guide to Web Scraping using Selenium  | [:pencil2:](https://www.analyticsvidhya.com/blog/2021/08/an-intuitive-guide-to-web-scraping-using-selenium/)  |   |
+| Scraping job offers from Glassdoor using Octoparse  | [:pencil2:](https://medium.com/mlearning-ai/scraping-job-offers-from-glassdoor-bb4b0b82f505?sk=bf5e6fad2a06d09b0b2cc18e0316933e)  |  |
+
