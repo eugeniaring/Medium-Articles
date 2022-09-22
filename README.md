@@ -15,22 +15,26 @@ A summary of topics covered until now:
 
 # Programming
 
-* [A friendly Guide for writing Recursive Functions with Python](https://towardsdatascience.com/a-friendly-guide-for-writing-recursive-functions-with-python-52441bd7ff5f?sk=d86a6f6c57bf9121414d43c9299ecebf)
-* [Explaining Python Classes in a simple way](https://towardsdatascience.com/explaining-python-classes-in-a-simple-way-e3742827c8b5?sk=f2644219c7a1b71bd23c302987481ed3)
-* [Master Class Inheritance in Python](https://towardsdatascience.com/master-class-inheritance-in-python-c46bfda63374?sk=7baf37f4749abddf04a61f5787efa50b)
-* [Master the basics of R Programming](https://www.analyticsvidhya.com/blog/2021/10/master-the-basics-of-r-programming)
+| Title         | Article       | Repository    |
+| ------------- | ------------- | ------------- |
+| A friendly Guide for writing Recursive Functions with Python  | [:pencil2:](https://towardsdatascience.com/a-friendly-guide-for-writing-recursive-functions-with-python-52441bd7ff5f?sk=d86a6f6c57bf9121414d43c9299ecebf)  | [:cat:]()  |
+| Explaining Python Classes in a simple way  | [:pencil2:](https://towardsdatascience.com/explaining-python-classes-in-a-simple-way-e3742827c8b5?sk=f2644219c7a1b71bd23c302987481ed3)  | Content Cell  |
+| Master Class Inheritance in Python  | [:pencil2:](https://towardsdatascience.com/master-class-inheritance-in-python-c46bfda63374?sk=7baf37f4749abddf04a61f5787efa50b)  | Content Cell  |
+| Master the basics of R Programming  | [:pencil2:](https://www.analyticsvidhya.com/blog/2021/10/master-the-basics-of-r-programming)  | Content Cell  |
 
 # Pytorch
 
-* [Pytorch Tutorial for Beginners](https://pub.towardsai.net/pytorch-tutorial-for-beginners-8331afc552c4?sk=0649bb04ac7d5abc2fda549540152dd4)
-* [Manipulating Pytorch Datasets](https://medium.com/mlearning-ai/manipulating-pytorch-datasets-c58487ab113f?sk=5d4cf7bd62d527d7c968b8db696b633f)
-* [Understand Tensor Dimensions in DL models](https://pub.towardsai.net/understanding-tensor-dimensions-in-deep-learning-models-with-pytorch-4ee828693826?sk=aa7de6752ce0878f08b74958d5a2f95c)
-* [CNN & Feature visualizations](https://medium.com/dataseries/visualizing-the-feature-maps-and-filters-by-convolutional-neural-networks-e1462340518e?sk=ecff452e1e310a6fe3602e2b7f253caf)
-* [Hyperparameter tuning with Optuna](https://pub.towardsai.net/tuning-pytorch-hyperparameters-with-optuna-470edcfd4dc?sk=32b9bd9102debd319c351c0c4cca67a2)
-* [K Fold Cross Validation](https://medium.com/dataseries/k-fold-cross-validation-with-pytorch-and-sklearn-d094aa00105f?sk=2466aaedc4e454b89f880a32604a2e0a)
-* [Convolutional Autoencoder](https://medium.com/dataseries/convolutional-autoencoder-in-pytorch-on-mnist-dataset-d65145c132ac?sk=d1c99944c67c6a56b0b4e8c1a062cba6)
-* [Denoising Autoencoder](https://ai.plainenglish.io/denoising-autoencoder-in-pytorch-on-mnist-dataset-a76b8824e57e?sk=d81a3f6fdb0b19f25d52914031f26c5e)
-* [Variational Autoencoder](https://medium.com/dataseries/variational-autoencoder-with-pytorch-2d359cbf027b?sk=159e10d3402dbe868c849a560b66cdcb)
+| Title         | Article       | Repository    |
+| ------------- | ------------- | ------------- |
+| Pytorch Tutorial for Beginners  | [:pencil2:](https://pub.towardsai.net/pytorch-tutorial-for-beginners-8331afc552c4?sk=0649bb04ac7d5abc2fda549540152dd4)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Pytorch/pytorch-for-beginners.ipynb)  |
+| Manipulating Pytorch Datasets  | [:pencil2:](https://medium.com/mlearning-ai/manipulating-pytorch-datasets-c58487ab113f?sk=5d4cf7bd62d527d7c968b8db696b633f)  |   |
+| Understand Tensor Dimensions in DL models  | [:pencil2:](https://pub.towardsai.net/understanding-tensor-dimensions-in-deep-learning-models-with-pytorch-4ee828693826?sk=aa7de6752ce0878f08b74958d5a2f95c)  | |
+| CNN & Feature visualizations  | [:pencil2:](https://medium.com/dataseries/visualizing-the-feature-maps-and-filters-by-convolutional-neural-networks-e1462340518e?sk=ecff452e1e310a6fe3602e2b7f253caf)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Pytorch/CNN_mnist.ipynb)   |
+| Hyperparameter tuning with Optuna  | [:pencil2:](https://pub.towardsai.net/tuning-pytorch-hyperparameters-with-optuna-470edcfd4dc?sk=32b9bd9102debd319c351c0c4cca67a2)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Pytorch/cnn_optuna.ipynb)   |
+| K Fold Cross Validation  | [:pencil2:](https://medium.com/dataseries/k-fold-cross-validation-with-pytorch-and-sklearn-d094aa00105f?sk=2466aaedc4e454b89f880a32604a2e0a)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Pytorch/KCV_mnist.ipynb)   |
+| Convolutional Autoencoder  | [:pencil2:](https://medium.com/dataseries/convolutional-autoencoder-in-pytorch-on-mnist-dataset-d65145c132ac?sk=d1c99944c67c6a56b0b4e8c1a062cba6)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Pytorch/convAE.ipynb)   |
+| Denoising Autoencoder  | [:pencil2:](https://ai.plainenglish.io/denoising-autoencoder-in-pytorch-on-mnist-dataset-a76b8824e57e?sk=d81a3f6fdb0b19f25d52914031f26c5e)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Pytorch/denAE.ipynb)   |
+| Variational Autoencoder  | [:pencil2:](https://medium.com/dataseries/variational-autoencoder-with-pytorch-2d359cbf027b?sk=159e10d3402dbe868c849a560b66cdcb)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Pytorch/VAE_mnist.ipynb)   |
 
 # Manage ML Experiments
 
