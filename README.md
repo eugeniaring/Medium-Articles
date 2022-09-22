@@ -14,6 +14,7 @@ A summary of topics covered until now:
 9. [Statistics](#statistics)
 10. [Dimensionality Reduction](#dimensionality-reduction)
 11. [Web Scraping](#web-scraping)
+12. [Data Science Portfolio](#data-science-portfolio)
 
 # Programming
 
@@ -132,3 +133,8 @@ A summary of topics covered until now:
 | Web Scraping Greenhouse Gas data from Wikipedia using Octoparse   | [:pencil2:](https://pub.towardsai.net/scraping-a-wikipedia-table-about-greenhouse-gas-600f2990af56?sk=d1a9382c0dd31c0861ca6f336d5b8655)  |  |
 | Build your own dataset of images for Deep Learning using Octoparse   | [:pencil2:](https://medium.com/mlearning-ai/how-to-quickly-build-your-own-dataset-of-images-for-deep-learning-1cf79073f1bd?sk=7e72677a81d46c59870385b4934a10ab)  |  |
 
+# Data Science Portfolio
+
+| Title         | Article       | Repository    |
+| ------------- | ------------- | ------------- |
+| How to create a strong Data Science Portfolio for free  | [:pencil2:](https://towardsdatascience.com/how-to-create-a-strong-data-science-portfolio-for-free-142588a0d754?sk=176bd1ad9be34c18ea506a1d7ca4a343)  |   |
