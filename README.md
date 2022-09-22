@@ -9,6 +9,7 @@ A summary of topics covered until now:
 5. [Web Apps](#web-apps)
 6. [Data Engineering](#data-engineering)
 7. [NLP](#nlp)
+8. [Anomaly Detection](#anomaly-detection)
 9. [Statistics](#statistics)
 10. [Dimensionality Reduction](#dimensionality-reduction)
 11. [Web Scraping](#web-scraping)
