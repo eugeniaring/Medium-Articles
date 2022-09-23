@@ -1,6 +1,6 @@
 # Medium Articles
 
-Repository that contains all the code used for the articles I wrote on Medium and on other blogs.
+Repository that contains all the articles I wrote on Medium and on other blogs and the code.
 
 A summary of topics covered until now:
 1. [Programming](#programming)
