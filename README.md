@@ -120,7 +120,7 @@ A summary of topics covered until now:
 | Variable Reduction with Principal Component Analysis  | [:pencil2:](https://pub.towardsai.net/machine-learning-1096c38e6a18?sk=12a7d697e584f20e224bbd78f805fbe2)  |   |
 | Implementing PCA from Scratch  | [:pencil2:](https://towardsdatascience.com/implementing-pca-from-scratch-ea3970714d2b?sk=6e583091f692b9fd1a6fd9f97bc10513)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Dimensionality%20Reduction/pcaimplementation.ipynb)   |
 | How to perform LDA in Python with Sklearn  | [:pencil2:](https://365datascience.com/tutorials/python-tutorials/lda-python/)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Dimensionality%20Reduction/lda_implement.ipynb)  |
-
+| What Is the Difference Between PCA and LDA?  | [:pencil2:](https://365datascience.com/tutorials/python-tutorials/lda-vs-pca/)  |  |
 
 # Web Scraping
 
