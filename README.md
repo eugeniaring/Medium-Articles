@@ -1,6 +1,6 @@
 # Medium Articles
 
-Repository that contains all the articles I wrote on Medium and on other blogs and the code.
+Repository that contains all the data science posts I wrote on Medium and the corresponding code.
 
 A summary of topics covered until now:
 1. [Programming](#programming)
