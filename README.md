@@ -99,6 +99,7 @@ A summary of topics covered until now:
 | Interpretation of Isolation Forest with SHAP  | [:pencil2:](https://pub.towardsai.net/interpretation-of-isolation-forest-with-shap-d1b6af93ae71?sk=89df1418a0cc243d8f2104844939abdb)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Anomaly%20Detection/iforestwithshap.ipynb)   |
 | Paper Review: Reconstruction by inpainting for visual anomaly detection  | [:pencil2:](https://towardsdatascience.com/paper-review-reconstruction-by-inpainting-for-visual-anomaly-detection-70dcf3063c07)  |   |
 | GANomaly Paper Review: Semi-Supervised Anomaly Detection via Adversarial Training  | [:pencil2:](https://towardsdatascience.com/ganomaly-paper-review-semi-supervised-anomaly-detection-via-adversarial-training-a6f7a64a265f)  | [:cat:](https://github.com/eugeniaring/ganomaly-MVTec-AD)  |
+| CFA Paper Review: a novel AD approach that exploits pre-trained CNNs and transfer learning  | [:pencil2:](https://medium.com/towards-data-science/cfa-paper-review-coupled-hypersphere-based-feature-adaptation-for-target-oriented-anomaly-c3b46316266b)  |   |
 
 
 
