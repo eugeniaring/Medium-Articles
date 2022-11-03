@@ -6,15 +6,16 @@ A summary of topics covered until now:
 1. [Programming](#programming)
 2. [Data Visualization](#data-visualization)
 3. [Pytorch](#pytorch)
-4. [Regularization](#regularization)
-5. [Web Apps](#web-apps)
-6. [Data Engineering](#data-engineering)
-7. [NLP](#nlp)
-8. [Anomaly Detection](#anomaly-detection)
-9. [Statistics](#statistics)
-10. [Dimensionality Reduction](#dimensionality-reduction)
-11. [Web Scraping](#web-scraping)
-12. [Data Science Portfolio](#data-science-portfolio)
+4. [MLOps](#mlops)
+5. [Regularization](#regularization)
+6. [Web Apps](#web-apps)
+7. [Data Engineering](#data-engineering)
+8. [NLP](#nlp)
+9. [Anomaly Detection](#anomaly-detection)
+10. [Statistics](#statistics)
+11. [Dimensionality Reduction](#dimensionality-reduction)
+12. [Web Scraping](#web-scraping)
+13. [Data Science Portfolio](#data-science-portfolio)
 
 # Programming
 
@@ -47,7 +48,7 @@ A summary of topics covered until now:
 | Denoising Autoencoder  | [:pencil2:](https://ai.plainenglish.io/denoising-autoencoder-in-pytorch-on-mnist-dataset-a76b8824e57e?sk=d81a3f6fdb0b19f25d52914031f26c5e)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Pytorch/denAE.ipynb)   |
 | Variational Autoencoder  | [:pencil2:](https://medium.com/dataseries/variational-autoencoder-with-pytorch-2d359cbf027b?sk=159e10d3402dbe868c849a560b66cdcb)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Pytorch/VAE_mnist.ipynb)   |
 
-# Manage ML Experiments
+# MLOps
 
 | Title         | Article       | Repository    |
 | ------------- | ------------- | ------------- |
