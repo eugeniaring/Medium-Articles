@@ -15,7 +15,8 @@ A summary of topics covered until now:
 10. [Statistics](#statistics)
 11. [Dimensionality Reduction](#dimensionality-reduction)
 12. [Web Scraping](#web-scraping)
-13. [Data Science Portfolio](#data-science-portfolio)
+13. [Reinforcement Learning](#reinforcement-learning)
+14. [Data Science Portfolio](#data-science-portfolio)
 
 # Programming
 
@@ -134,6 +135,13 @@ A summary of topics covered until now:
 | Scraping job offers from Glassdoor using Octoparse  | [:pencil2:](https://medium.com/mlearning-ai/scraping-job-offers-from-glassdoor-bb4b0b82f505?sk=bf5e6fad2a06d09b0b2cc18e0316933e)  |  |
 | Web Scraping Greenhouse Gas data from Wikipedia using Octoparse   | [:pencil2:](https://pub.towardsai.net/scraping-a-wikipedia-table-about-greenhouse-gas-600f2990af56?sk=d1a9382c0dd31c0861ca6f336d5b8655)  |  |
 | Build your own dataset of images for Deep Learning using Octoparse   | [:pencil2:](https://medium.com/mlearning-ai/how-to-quickly-build-your-own-dataset-of-images-for-deep-learning-1cf79073f1bd?sk=7e72677a81d46c59870385b4934a10ab)  |  |
+
+# Reinforcement Learning
+
+| Title         | Article       | Repository    |
+| ------------- | ------------- | ------------- |
+| Acrobot with Deep Q-Learning  | [:pencil2:](https://www.analyticsvidhya.com/blog/2021/06/acrobot-with-deep-q-learning/)  |   |
+| Deep Q-network with Pytorch and Gym to solve the Acrobot game  | [:pencil2:](https://towardsdatascience.com/deep-q-network-with-pytorch-and-gym-to-solve-acrobot-game-d677836bda9b?sk=b1f158d50a57da9f1e144b0056d2458d)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Pytorch/acrobot.ipynb)   |
 
 # Data Science Portfolio
 
