@@ -12,11 +12,12 @@ A summary of topics covered until now:
 7. [Data Engineering](#data-engineering)
 8. [NLP](#nlp)
 9. [Anomaly Detection](#anomaly-detection)
-10. [Statistics](#statistics)
-11. [Dimensionality Reduction](#dimensionality-reduction)
-12. [Web Scraping](#web-scraping)
-13. [Reinforcement Learning](#reinforcement-learning)
-14. [Data Science Portfolio](#data-science-portfolio)
+10. [Visual Anomaly Detection](#visual-anomaly-detection)
+11. [Statistics](#statistics)
+12. [Dimensionality Reduction](#dimensionality-reduction)
+13. [Web Scraping](#web-scraping)
+14. [Reinforcement Learning](#reinforcement-learning)
+15. [Data Science Portfolio](#data-science-portfolio)
 
 # Programming
 
@@ -99,6 +100,11 @@ A summary of topics covered until now:
 | ------------- | ------------- | ------------- |
 | Anomaly Detection With Isolation Forest  | [:pencil2:](https://betterprogramming.pub/anomaly-detection-with-isolation-forest-e41f1f55cc6?sk=a0b5c074c78e392ecefd85d716ddecc9)  | [:cat:](https://github.com/eugeniaring/Medium-Art)  |
 | Interpretation of Isolation Forest with SHAP  | [:pencil2:](https://pub.towardsai.net/interpretation-of-isolation-forest-with-shap-d1b6af93ae71?sk=89df1418a0cc243d8f2104844939abdb)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Anomaly%20Detection/iforestwithshap.ipynb)   |
+
+# Visual Anomaly Detection
+
+| Title         | Article       | Repository    |
+| ------------- | ------------- | ------------- |
 | Paper Review: Reconstruction by inpainting for visual anomaly detection  | [:pencil2:](https://towardsdatascience.com/paper-review-reconstruction-by-inpainting-for-visual-anomaly-detection-70dcf3063c07)  |   |
 | GANomaly Paper Review: Semi-Supervised Anomaly Detection via Adversarial Training  | [:pencil2:](https://towardsdatascience.com/ganomaly-paper-review-semi-supervised-anomaly-detection-via-adversarial-training-a6f7a64a265f)  | [:cat:](https://github.com/eugeniaring/ganomaly-MVTec-AD)  |
 | CFA Paper Review: a novel AD approach that exploits pre-trained CNNs and transfer learning  | [:pencil2:](https://medium.com/towards-data-science/cfa-paper-review-coupled-hypersphere-based-feature-adaptation-for-target-oriented-anomaly-c3b46316266b)  |   |
