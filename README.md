@@ -54,8 +54,8 @@ A summary of topics covered until now:
 
 | Title         | Article       | Repository    |
 | ------------- | ------------- | ------------- |
-| An Intuitive Guide to Track Your ML Experiments with MLflow  | [:pencil2:](https://towardsdatascience.com/a-friendly-guide-for-writing-recursive-functions-with-python-52441bd7ff5f?sk=d86a6f6c57bf9121414d43c9299ecebf)  |   |
-| A quick guide for tracking Pytorch Experiments using Neptune.ai  | [:pencil2:](https://towardsdatascience.com/explaining-python-classes-in-a-simple-way-e3742827c8b5?sk=f2644219c7a1b71bd23c302987481ed3)  |   |
+| An Intuitive Guide to Track Your ML Experiments with MLflow  | [:pencil2:](https://towardsdatascience.com/an-intuitive-guide-to-track-your-ml-experiments-with-mlflow-7ac50e63b09?sk=3f8a40911438b223c67f9842834f8827)  |   |
+| A quick guide for tracking Pytorch Experiments using Neptune.ai  | [:pencil2:](https://towardsdatascience.com/a-quick-guide-for-tracking-pytorch-experiments-using-neptune-ai-6321e4b6040f?sk=73805058dde5264ff4631ef1568efa6c)  |   |
 | How to deploy your ML model using DagsHub+MLflow+AWS Lambda  | [:pencil2:](https://towardsdatascience.com/how-to-deploy-your-ml-model-using-dagshub-mlflow-aws-lambda-c85e07b06ef6?sk=30e3b1a636acd59d51f03cc7fc9e9459)  | [:cat:](https://dagshub.com/eugenia.anello/anomaly_detection_ecg)  |
 | An End to End Web App to detect anomalies from ECG signals with Streamlit  | [:pencil2:](https://towardsdatascience.com/an-end-to-end-web-app-to-detect-anomalies-from-ecg-signals-with-streamlit-e00c177305ff?sk=be3c3bb901b6de83b74c9d2e228e41fd)  | [:cat:](https://dagshub.com/eugenia.anello/anomaly_detection_ecg_part2)  |
 
