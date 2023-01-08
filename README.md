@@ -97,6 +97,7 @@ A summary of topics covered until now:
 | Bag-of-Words with an Example in Python  | [:pencil2:](https://www.analyticsvidhya.com/blog/2021/08/a-friendly-guide-to-nlp-bag-of-words-with-python-example/)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/NLP/tf_idf_vs_BOW.ipynb)  |
 | TF-IDF with an Example in Python  | [:pencil2:](https://betterprogramming.pub/a-friendly-guide-to-nlp-tf-idf-with-python-example-5fcb26286a33?sk=c204d0a817f8b5cd52f0e3d4ab8d688e)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/NLP/tf_idf_vs_BOW.ipynb)  |
 | Word Clouds with TF-IDF  | [:pencil2:](https://pub.towardsai.net/natural-language-processing-c12b0d525f99?sk=0a8af394df58b88a6d6f0b82143878a0)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/NLP/hotel-cloud.ipynb)  |
+| Topic Modeling for E-commerce Reviews using BERTopic  | [:pencil2:](https://pub.towardsai.net/topic-modeling-for-e-commerce-reviews-using-bertopic-b1b9e85c710b?sk=ee49a5935cb0a4945492f7d7cf69a353)  | [:cat:](https://dagshub.com/eugenia.anello/topic-modeling-reviews)  |  |
 
 
 # Anomaly Detection
