@@ -76,6 +76,7 @@ A summary of topics covered until now:
 | How to build a Web App to Transcribe and Summarize audio with Python  | [:pencil2:](https://towardsdatascience.com/how-to-build-a-web-app-to-transcribe-and-summarize-audio-with-python-dc719cb9e1f5?sk=96f349f866419fe55cd6a1496e740069)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/tree/main/Web%20Apps/podcast-summary-app)  |
 | Creating a Web Application to extract topics from audio with Python  | [:pencil2:](https://towardsdatascience.com/creating-a-web-application-to-extract-topics-from-audio-with-python-21c3f541f3ca?sk=0e7a46d1e4223e66c8bd5f11138c2763)  | [:cat:](https://github.com/eugeniaring/topic-web-app-heroku)  |
 | Building a Web Application to detect Breast Cancer in Ultrasound images  | [:pencil2:](https://medium.com/mlearning-ai/building-a-web-application-to-detect-breast-cancer-in-ultrasound-images-df391483fbd9?sk=0718b6dfc0475bbab62c354288207027)  | [:cat:](https://github.com/eugeniaring/breast_cancer_web_app)  |
+| How to build a Shazam-like Telegram Bot using Python  | [:pencil2:](https://towardsdatascience.com/how-to-build-a-shazam-like-telegram-bot-using-python-98dc081c53d5?sk=ab629aad0f5fe7810027cdce5ee4165b)  | [:cat:](https://github.com/eugeniaring/shazam-like-telegram-bot)  |
 
 # Data Engineering
 
