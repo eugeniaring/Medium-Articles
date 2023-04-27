@@ -17,7 +17,8 @@ A summary of topics covered until now:
 12. [Dimensionality Reduction](#dimensionality-reduction)
 13. [Web Scraping](#web-scraping)
 14. [Reinforcement Learning](#reinforcement-learning)
-15. [Data Science Portfolio](#data-science-portfolio)
+15. [Geospatial Data Analysis](#geospatial-data-analysis)
+16. [Data Science Portfolio](#data-science-portfolio)
 
 # Programming
 
@@ -155,6 +156,13 @@ A summary of topics covered until now:
 | ------------- | ------------- | ------------- |
 | Acrobot with Deep Q-Learning  | [:pencil2:](https://www.analyticsvidhya.com/blog/2021/06/acrobot-with-deep-q-learning/)  |   |
 | Deep Q-network with Pytorch and Gym to solve the Acrobot game  | [:pencil2:](https://towardsdatascience.com/deep-q-network-with-pytorch-and-gym-to-solve-acrobot-game-d677836bda9b?sk=b1f158d50a57da9f1e144b0056d2458d)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Pytorch/acrobot.ipynb)   |
+
+# Geospatial Data Analysis
+
+| Title         | Article       | Repository    |
+| ------------- | ------------- | ------------- |
+| A Practical Introduction to Geospatial Data Analysis using QGIS  | [:pencil2:](https://towardsdatascience.com/a-practical-introduction-to-geospatial-data-analysis-using-qgis-a6f82105b30e?sk=e6251697a54bc62fa33bc6a9a81258a7)  |   |
+| A comprehensive guide for getting started with OpenStreetMap  | [:pencil2:](https://towardsdatascience.com/a-comprehensive-guide-for-getting-started-with-openstreetmap-e92dff95fc80?sk=e0981a4fed7f4cfefa9a58477a863ea6)  |    |
 
 # Data Science Portfolio
 
