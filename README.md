@@ -163,6 +163,7 @@ A summary of topics covered until now:
 | ------------- | ------------- | ------------- |
 | A Practical Introduction to Geospatial Data Analysis using QGIS  | [:pencil2:](https://towardsdatascience.com/a-practical-introduction-to-geospatial-data-analysis-using-qgis-a6f82105b30e?sk=e6251697a54bc62fa33bc6a9a81258a7)  |   |
 | A comprehensive guide for getting started with OpenStreetMap  | [:pencil2:](https://towardsdatascience.com/a-comprehensive-guide-for-getting-started-with-openstreetmap-e92dff95fc80?sk=e0981a4fed7f4cfefa9a58477a863ea6)  |    |
+| Geospatial Data Analysis with GeoPandas  | [:pencil2:]([https://towardsdatascience.com/a-comprehensive-guide-for-getting-started-with-openstreetmap-e92dff95fc80?sk=e0981a4fed7f4cfefa9a58477a863ea6](https://towardsdatascience.com/geospatial-data-analysis-with-geopandas-876cb72721cb?sk=042a0f2fb834cb08ffd0f74eb856e7e1))  | [:cat:](https://jovian.com/eugeniaring/geopandas-example)   |
 
 # Data Science Portfolio
 
