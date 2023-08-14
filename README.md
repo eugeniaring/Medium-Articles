@@ -128,6 +128,7 @@ A summary of topics covered until now:
 | An intuitive introduction to Boxplots  | [:pencil2:](https://medium.com/dataseries/an-intuitive-introduction-to-boxplots-e5babae2f04f?sk=510d0ea1ba698b56d8fa001bd5636e75)  |   |
 | An introduction to Probability Sampling Methods  | [:pencil2:](https://towardsdatascience.com/an-introduction-to-probability-sampling-methods-7a936e486b5?sk=590cb6b5faf84709f158b77b998b6c1a)  |   |
 | An introduction to non-Probability Sampling Methods  | [:pencil2:](https://towardsdatascience.com/an-introduction-to-non-probability-sampling-methods-b74c76f7f710?sk=8ba145ecf97368d2ff295df87edfe98a)  |  |
+| Top 15 Probability and Statistics Interview Questions for Data Scientists  | [:pencil2:](https://365datascience.com/career-advice/job-interview-tips/probability-and-statistics-interview-questions-for-data-scientists/)  |  |
 
 
 # Dimensionality Reduction
