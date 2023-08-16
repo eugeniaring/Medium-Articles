@@ -181,4 +181,5 @@ A summary of topics covered until now:
 | Free From Google: Generative AI Learning Path  | [:pencil2:](https://www.kdnuggets.com/2023/07/free-google-generative-ai-learning-path.html)  |   |
 | How to Use ChatGPT to Improve Your Data Science Skills  | [:pencil2:](https://www.kdnuggets.com/2023/03/chatgpt-improve-data-science-skills.html)  |   |
 | OpenAI’s Whisper API for Transcription and Translation  | [:pencil2:](https://www.kdnuggets.com/2023/06/openai-whisper-api-transcription-translation.html)  |   |
+| Using LangChain and ChatGPT to explain Python Code | [:pencil2:]()  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/GenerativeAI/langchain_explaincode.ipynb)  |
 
