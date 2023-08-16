@@ -179,6 +179,6 @@ A summary of topics covered until now:
 | Title         | Article       | Repository    |
 | ------------- | ------------- | ------------- |
 | Free From Google: Generative AI Learning Path  | [:pencil2:](https://www.kdnuggets.com/2023/07/free-google-generative-ai-learning-path.html)  |   |
-| [How to Use ChatGPT to Improve Your Data Science Skills](https://www.kdnuggets.com/2023/03/chatgpt-improve-data-science-skills.html)https://www.kdnuggets.com/2023/03/chatgpt-improve-data-science-skills.html  | [:pencil2:]()  |   |
+| How to Use ChatGPT to Improve Your Data Science Skills  | [:pencil2:](https://www.kdnuggets.com/2023/03/chatgpt-improve-data-science-skills.html)  |   |
 | OpenAI’s Whisper API for Transcription and Translation  | [:pencil2:](https://www.kdnuggets.com/2023/06/openai-whisper-api-transcription-translation.html)  |   |
 
