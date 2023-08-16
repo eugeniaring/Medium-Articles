@@ -19,6 +19,7 @@ A summary of topics covered until now:
 14. [Reinforcement Learning](#reinforcement-learning)
 15. [Geospatial Data Analysis](#geospatial-data-analysis)
 16. [Data Science Portfolio](#data-science-portfolio)
+17. [Generative AI](#generative-ai)
 
 # Programming
 
@@ -172,3 +173,12 @@ A summary of topics covered until now:
 | Title         | Article       | Repository    |
 | ------------- | ------------- | ------------- |
 | How to create a strong Data Science Portfolio for free  | [:pencil2:](https://towardsdatascience.com/how-to-create-a-strong-data-science-portfolio-for-free-142588a0d754?sk=176bd1ad9be34c18ea506a1d7ca4a343)  |   |
+
+# Generative AI
+
+| Title         | Article       | Repository    |
+| ------------- | ------------- | ------------- |
+| Free From Google: Generative AI Learning Path  | [:pencil2:](https://www.kdnuggets.com/2023/07/free-google-generative-ai-learning-path.html)  |   |
+| [How to Use ChatGPT to Improve Your Data Science Skills](https://www.kdnuggets.com/2023/03/chatgpt-improve-data-science-skills.html)https://www.kdnuggets.com/2023/03/chatgpt-improve-data-science-skills.html  | [:pencil2:]()  |   |
+| OpenAI’s Whisper API for Transcription and Translation  | [:pencil2:](https://www.kdnuggets.com/2023/06/openai-whisper-api-transcription-translation.html)  |   |
+
