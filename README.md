@@ -181,5 +181,6 @@ A summary of topics covered until now:
 | Free From Google: Generative AI Learning Path  | [:pencil2:](https://www.kdnuggets.com/2023/07/free-google-generative-ai-learning-path.html)  |   |
 | How to Use ChatGPT to Improve Your Data Science Skills  | [:pencil2:](https://www.kdnuggets.com/2023/03/chatgpt-improve-data-science-skills.html)  |   |
 | OpenAI’s Whisper API for Transcription and Translation  | [:pencil2:](https://www.kdnuggets.com/2023/06/openai-whisper-api-transcription-translation.html)  |   |
-| Using LangChain and ChatGPT to explain Python Code | [:pencil2:]()  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/GenerativeAI/langchain_explaincode.ipynb)  |
+| Using LangChain and ChatGPT to explain Python Code | [:pencil2:](https://pub.towardsai.net/using-langchain-and-chatgpt-to-explain-python-code-5d6351955e8c?sk=40efaf91e51b589e038fa4dce821ed41)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/GenerativeAI/langchain_explaincode.ipynb)  |
+| Use LangChain to Extract a Dictionary from Text | [:pencil2:](https://pub.towardsai.net/use-langchain-to-extract-a-dictionary-from-text-3fca094d85d?sk=73a7c341d5e6b7fb5a68eaf35036a2ab)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/GenerativeAI/langchain_explaincode.ipynb)  |
 
