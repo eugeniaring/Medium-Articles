@@ -167,6 +167,7 @@ A summary of topics covered until now:
 | A comprehensive guide for getting started with OpenStreetMap  | [:pencil2:](https://towardsdatascience.com/a-comprehensive-guide-for-getting-started-with-openstreetmap-e92dff95fc80?sk=e0981a4fed7f4cfefa9a58477a863ea6)  |    |
 | Geospatial Data Analysis with GeoPandas  | [:pencil2:](https://towardsdatascience.com/geospatial-data-analysis-with-geopandas-876cb72721cb?sk=042a0f2fb834cb08ffd0f74eb856e7e1)  | [:cat:](https://jovian.com/eugeniaring/geopandas-example)   |
 | Geospatial Data Analysis with OSMnx  | [:pencil2:](https://towardsdatascience.com/geospatial-data-analysis-with-osmnx-8a300d77b592?sk=7afb9be17e024167937a615d7ea4b267)  | [:cat:](https://jovian.com/eugeniaring/geospatial-osm-osmnx)   |
+| Geospatial Data Analysis with Geemap  | [:pencil2:](https://lnkd.in/dScyTa8z)  | [:cat:](ttps://lnkd.in/dREj5vdW)   |
 
 # Data Science Portfolio
 
