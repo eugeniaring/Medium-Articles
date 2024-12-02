@@ -5,21 +5,22 @@ Repository that contains all the data science posts I wrote on Medium and the co
 A summary of topics covered until now:
 1. [Programming](#programming)
 2. [Data Visualization](#data-visualization)
-3. [Pytorch](#pytorch)
-4. [MLOps](#mlops)
-5. [Regularization](#regularization)
-6. [Web Apps](#web-apps)
-7. [Data Engineering](#data-engineering)
-8. [NLP](#nlp)
-9. [Anomaly Detection](#anomaly-detection)
-10. [Visual Anomaly Detection](#visual-anomaly-detection)
-11. [Statistics](#statistics)
-12. [Dimensionality Reduction](#dimensionality-reduction)
-13. [Web Scraping](#web-scraping)
-14. [Reinforcement Learning](#reinforcement-learning)
-15. [Geospatial Data Analysis](#geospatial-data-analysis)
-16. [Data Science Portfolio](#data-science-portfolio)
-17. [Generative AI](#generative-ai)
+3. [SQL](#sql)
+4. [Pytorch](#pytorch)
+5. [MLOps](#mlops)
+6. [Regularization](#regularization)
+7. [Web Apps](#web-apps)
+8. [Data Engineering](#data-engineering)
+9. [NLP](#nlp)
+10. [Anomaly Detection](#anomaly-detection)
+11. [Visual Anomaly Detection](#visual-anomaly-detection)
+12. [Statistics](#statistics)
+13. [Dimensionality Reduction](#dimensionality-reduction)
+14. [Web Scraping](#web-scraping)
+15. [Reinforcement Learning](#reinforcement-learning)
+16. [Geospatial Data Analysis](#geospatial-data-analysis)
+17. [Data Science Portfolio](#data-science-portfolio)
+18. [Generative AI](#generative-ai)
 
 # Programming
 
@@ -37,6 +38,13 @@ A summary of topics covered until now:
 | Plotly Express: Interprete data through interactive visualization  | [:pencil2:](https://pub.towardsai.net/matplotlib-is-dead-long-life-to-plotly-express-e1671dce0d18)  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/Statistics/plotlyexpress.ipynb)  |
 | How to transition from Excel to Power BI  | [:pencil2:](https://www.datacamp.com/blog/how-to-transition-from-excel-to-power-bi)  |   |
 | Tableau Tutorial for Beginners  | [:pencil2:](https://www.datacamp.com/tutorial/tableau-tutorial-for-beginners)  |   |
+
+# SQL 
+
+| Title         | Article       | Repository    |
+| ------------- | ------------- | ------------- |
+| An Intuitive Guide to Integrate SQL and Python for Data Science | [:pencil2:](https://towardsdatascience.com/an-intuitive-guide-to-integrate-sql-and-python-for-data-science-9557df61069e?sk=41ecb3dd6e09d2409cabd43bf1d86962)  | [:cat:]()  |
+| An Introduction to Common Tables Expressions in SQL | [:pencil2:]()  |   |
 
 # Pytorch
 
