@@ -44,7 +44,7 @@ A summary of topics covered until now:
 | Title         | Article       | Repository    |
 | ------------- | ------------- | ------------- |
 | An Intuitive Guide to Integrate SQL and Python for Data Science | [:pencil2:](https://towardsdatascience.com/an-intuitive-guide-to-integrate-sql-and-python-for-data-science-9557df61069e?sk=41ecb3dd6e09d2409cabd43bf1d86962)  | [:cat:]()  |
-| An Introduction to Common Tables Expressions in SQL | [:pencil2:]()  |   |
+| An Introduction to Common Tables Expressions in SQL | [:pencil2:]()  | [:cat:](https://github.com/eugeniaring/Medium-Articles/blob/main/SQL/CTE_examples.sql)  |
 
 # Pytorch
 
